@@ -10,6 +10,5 @@ Sou iniciante no universo da programação e tenho muita facilidade de trabalhar
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maidell&show_icons=true&theme=dracula)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maidell)](https://github.com/maidell/github-readme-stats)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=maidell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=maidell&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=dracula)
