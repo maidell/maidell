@@ -7,7 +7,7 @@
 :office: Atualmente faço estágio no setor de Infraestrutura na Sysmex Brasil  
 :raising_hand: Atuei com trabalho voluntário por 2 anos em uma Empresa Júnior de Informática da UFPR
 
-##### Sou iniciante no universo da programação e tenho muita facilidade de trabalhar e lidar com pessoas(e dados).  
+##### Sou iniciante no universo da programação e tenho muita facilidade de trabalhar e lidar com pessoas (e dados).  
 
 ![Maidell's GitHub stats](https://github-readme-stats.vercel.app/api?username=maidell&show_icons=true&count_private=true&layout=compact&amp;langs_count=8&amp;theme=github_dark&amp;border_radius=8%)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=maidell&layout=compact&amp;langs_count=8&amp;theme=github_dark&amp;border_radius=8%)](https://github.com/maidell/github-readme-stats)
