@@ -1,15 +1,20 @@
 # Olá, sou o Mateus Maidel
+## Seja bem vindo ao meu perfil do GitHub!
 
-Seja bem vindo ao meu perfil do GitHub!
+:house: Moro em Curitiba - PR  
+:school: Estudo Engenharia de Software na 42 São Paulo  
+:school: Estudo Analise e Desenvolvimento de Sistemas na UFPR  
+:office: Atualmente faço estágio no setor de Infraestrutura na Sysmex Brasil  
+:raising_hand: Atuei com trabalho voluntário por 2 anos em uma Empresa Júnior de Informática da UFPR
 
-Sou estudante do terceiro período de Análise e Desenvolvimento de Sistemas pela UFPR. 
-Atuo com gestão de pessoas em uma empresa júnior de computação e em paralelo faço 
-estágio no setor de infraestrutura de T.i. em uma empresa da área da saúde. 
+##### Sou iniciante no universo da programação e tenho muita facilidade de trabalhar e lidar com pessoas(e dados).  
 
-Sou iniciante no universo da programação e tenho muita facilidade de trabalhar e lidar com pessoas(e dados).
+![Maidell's GitHub stats](https://github-readme-stats.vercel.app/api?username=maidell&show_icons=true&count_private=true&layout=compact&amp;langs_count=8&amp;theme=github_dark&amp;border_radius=8%)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=maidell&layout=compact&amp;langs_count=8&amp;theme=github_dark&amp;border_radius=8%)](https://github.com/anuraghazra/github-readme-stats)
 
+###  :earth_americas:	Quer falar comigo? 
 
-(https://github-readme-stats.vercel.app/api?username=maidell&show_icons=true&count_private=true&theme=github_dark )
+Você pode me encontrar nas redes abaixo:  
 
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=maidell&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Linkedin bagde](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://br.linkedin.com/in/mateus-maidel?original_referer=https%3A%2F%2Fwww.google.com%2F)](https://br.linkedin.com/in/mateus-maidel?original_referer=https%3A%2F%2Fwww.google.com%2F)
+[![Gmail badge](https://img.shields.io/badge/-Mateus_Maidel-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:licenca_cuboides.0q@icloud.com)](mailto:licenca_cuboides.0q@icloud.com)
