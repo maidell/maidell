@@ -9,13 +9,12 @@
 
 ##### Sou iniciante no universo da programação e tenho muita facilidade de trabalhar e lidar com pessoas (e dados).  
 
+##
+
 <div>   
-
-  ##
-
   <a href="https://github.com/maidell">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=maidell&show_icons=true&theme=github_dark&border_radius=8%"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maidell&layout=compact&langs_count=8&theme=github_dark&border_radius=8%"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=maidell&show_icons=true&theme=github_dark&border_radius=10%"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maidell&layout=compact&langs_count=8&theme=github_dark&border_radius=10%"/>
 </div>
 
 ##
