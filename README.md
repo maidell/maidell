@@ -4,7 +4,7 @@
 :house: Moro em Curitiba - PR  
 :school: Estudo Engenharia de Software na 42 São Paulo  
 :school: Estudo Analise e Desenvolvimento de Sistemas na UFPR  
-:office: Atualmente faço estágio no setor de Infraestrutura na Sysmex Brasil  
+:office: Estagiei no setor de Infraestrutura na Sysmex Brasil  
 :raising_hand: Atuei com trabalho voluntário por 2 anos em uma Empresa Júnior de Informática da UFPR
 
 ##### Sou iniciante no universo da programação e tenho muita facilidade de trabalhar e lidar com pessoas (e dados).  
