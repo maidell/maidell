@@ -26,4 +26,4 @@ Você pode me encontrar nas redes abaixo:
 [![Linkedin bagde](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://br.linkedin.com/in/mateus-maidel?original_referer=https%3A%2F%2Fwww.google.com%2F)](https://br.linkedin.com/in/mateus-maidel?original_referer=https%3A%2F%2Fwww.google.com%2F)
 [![Gmail badge](https://img.shields.io/badge/-Mateus_Maidel-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:licenca_cuboides.0q@icloud.com)](mailto:licenca_cuboides.0q@icloud.com)
 
-
+ 
