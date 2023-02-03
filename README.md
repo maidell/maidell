@@ -14,7 +14,7 @@
 <div>   
   <a href="https://github.com/maidell">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=maidell&show_icons=true&theme=github_dark&border_radius=10%"/>
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maidell&layout=compact&langs_count=10&theme=github_dark&count_private=true&border_radius=10%"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maidell&count_private=true&layout=compact&langs_count=10&theme=github_dark&border_radius=10%&count_private=true"/>
   
 </div>
 
