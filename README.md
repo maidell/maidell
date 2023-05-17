@@ -7,7 +7,7 @@
 :office: Estagiei no setor de Infraestrutura na Sysmex Brasil  
 :raising_hand: Atuei com trabalho voluntário por 2 anos em uma Empresa Júnior de Informática da UFPR
 
-##### Sou iniciante no universo da programação e tenho muita facilidade de trabalhar e lidar com pessoas (e dados).  
+##### Apaixonado por aprender.  
 
 ##
 
