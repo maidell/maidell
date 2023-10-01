@@ -1,11 +1,11 @@
 # Olá, sou o Mateus Maidel
 ## Seja bem vindo ao meu perfil do GitHub!
 
-:house: Moro em Curitiba - PR  
-:school: Estudo Engenharia de Software na 42 São Paulo  
-:school: Estudo Analise e Desenvolvimento de Sistemas na UFPR  
-:office: Estagiei no setor de Infraestrutura na Sysmex Brasil  
-:raising_hand: Atuei com trabalho voluntário por 2 anos em uma Empresa Júnior de Informática da UFPR
+:house: I live in Curitiba - PR                                                                                  
+:school: I study Software Engineering at 42 São Paulo                                                                                              
+:school: I study Systems Analysis and Development at UFPR                                                                                        
+:office: I was an intern in the Infrastructure sector at Sysmex Brasil                                                                                                  
+:raising_hand: I did voluntary work for 2 years in a Junior IT Company at UFPR                                                                      
 
 ##### Apaixonado por aprender.  
 
