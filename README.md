@@ -4,6 +4,7 @@
 :house: I live in Curitiba - PR                                                                                  
 :school: I study Software Engineering at 42 São Paulo                                                                                              
 :school: I study Systems Analysis and Development at UFPR                                                                                        
+:office: I'm full stack Software Development Intern at MPS Informática
 :office: I was an intern in the Infrastructure sector at Sysmex Brasil                                                                                                  
 :raising_hand: I did voluntary work for 2 years in a Junior IT Company at UFPR                                                                      
 
