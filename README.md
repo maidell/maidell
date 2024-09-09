@@ -1,12 +1,13 @@
 ## Hi, I'm Mateus Maidel
 ## Welcome to my GitHub profile!
 
-:house: I live in Curitiba - PR 
+:house: I live in Curitiba - PR  
 :school: I study Software Engineering at 42 São Paulo                                                                                              
 :school: I study Systems Analysis and Development at UFPR                                                                                        
 :office: I was a FrontEnd developer at MPS Informática  
 :office: I was an intern in the Infrastructure sector at Sysmex Brasil                                                                                                  
-:raising_hand: I did voluntary work for 2 years in a Junior IT Company at UFPR                                                                      
+:raising_hand: I did voluntary work for 2 years in a Junior IT Company at UFPR      
+👨‍🏫 i'm a development teacher in the state of PR
 
 ##### Passionate about learning.  
 
@@ -15,7 +16,7 @@
 <div>   
   <a href="https://github.com/maidell">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=maidell&show_icons=true&theme=github_dark&border_radius=10%"/>
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maidell&count_private=true&layout=compact&langs_count=9&theme=github_dark&border_radius=10%&count_private=true"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maidell&count_private=true&layout=compact&langs_count=10&theme=github_dark&border_radius=10%&count_private=true"/>
   
 </div>
 
